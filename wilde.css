@@ -1,0 +1,47 @@
+.speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: black;
+}
+
+.stage-direction{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: black;
+    background-color: paleturquoise;
+}
+
+.name{
+    font-size: 20px;
+    color: black;
+}
+
+.stage-direction:hover{
+    background-color: lightsteelblue;
+    color: mediumseagreen;
+}
+
+.hunstanton{
+    color: mediumvioletred;
+}
+
+.allonby{
+    color: orange;
+}
+
+.caroline{
+    color: palegreen;
+}
+
+.stutfield{
+    color: saddlebrown;
+}
+
+.kelvil{
+    color: slateblue;
+}
+
+.john{
+    color: violet;
+}
+
