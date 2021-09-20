@@ -62,3 +62,8 @@ td{
 tr:nth-child(even) {
     background-color:skyblue;
 }
+
+.stutfield:hover{
+    text-shadow: 2px 2px 2px seagreen;
+    border: solid 3px salmon;
+    }
