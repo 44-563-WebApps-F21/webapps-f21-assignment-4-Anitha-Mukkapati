@@ -45,3 +45,20 @@
     color: violet;
 }
 
+table { 
+    border: solid 3px saddlebrown;
+    width: 70%;
+}
+ th{
+     border: solid 1px saddlebrown;
+     color:slateblue;
+     text-align: center;
+ }
+td{
+    border: solid 1px saddlebrown;
+    color: tomato;
+    text-align: left;
+}
+tr:nth-child(even) {
+    background-color:skyblue;
+}
